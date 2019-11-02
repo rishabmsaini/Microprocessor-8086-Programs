@@ -1,0 +1,2 @@
+This code is a menu-driven code to perform addition, subtraction or exit as per user's choice.
+This code work for 8-bit numbers i.e. 2 digit numbers.
